@@ -1,13 +1,12 @@
 
-![project23](https://github.com/user-attachments/assets/8c0b14ce-5afb-4387-8c2f-48ee1fbb7c2b) ![Screenshot 2024-09-13 at 03 34 24](https://github.com/user-attachments/assets/0bc0ad55-6c33-4ecf-9a6b-44627ebc2396) ![Screenshot 2024-09-13 at 03 35 51](https://github.com/user-attachments/assets/42ea4942-e2cc-4119-b83a-31c49062ec90) ![Screenshot 2024-09-13 at 03 34 55](https://github.com/user-attachments/assets/3107bdb9-cc73-4ca6-b79d-4f4748eeab59) ![Screenshot 2024-09-13 at 03 35 33](https://github.com/user-attachments/assets/24751061-c447-4196-840e-825695fa0d1d)
 
-## RestaurantTS-NextJS-Website
+## Restauranwebsite
 
 RestaurantTS App is a NextJS 14 Static Restaurant Landing Page, using React.js, Typescript, Webpack, TailwindCSS, Framer-Motion, TailwindCSS-Animate, Radix-UI, Date-fns, React-Leaflet, Lucide-React, React-Day-Picker, React-Scroll, React-Icons, React-Responsive features and deploy on Vercel.
 
-**Note: This static webpage is built using Typescript, I have developed the same static webpage using Javascript. (https://github.com/arnobt78/RestaurantJS-NextJS-Website)**
+**Note: This static webpage is built using Typescript,
 
-**Note: To check this website live, click here:** https://restaurant-ts-arnob.vercel.app/
+
 
 ## To Install Dependencies
 
@@ -58,9 +57,3 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
